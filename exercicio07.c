@@ -1,4 +1,4 @@
-/* 7. Dado um inteiro não-negativo n, determinar n! */
+/* 7. Dado um inteiro nÃ£o-negativo n, determinar n! */
 #include <stdio.h>
 void main()
 {
